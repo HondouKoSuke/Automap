@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="1868919397" PlugID3="1953701942" PlugID2="1399935286" PlugID1="1448301637" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1129091659" DeviceID1="-463121537" />
+    <Type Type="1" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="Band 1 Gain" shortName="Band 1 Gain" id="3" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 1 Frq" shortName="Band 1 Frq" id="4" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 1 Q" shortName="Band 1 Q" id="5" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 1 Type" shortName="Band 1 Type" id="2" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+            <Param name="Band 2 Gain" shortName="Band 2 Gain" id="8" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 2 Frq" shortName="Band 2 Frq" id="9" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 2 Q" shortName="Band 2 Q" id="10" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 2 Type" shortName="Band 2 Type" id="7" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="Band 1 On/Off" shortName="Band 1 On/Off" id="1" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param name="Band 2 On/Off" shortName="Band 2 On/Off" id="6" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 1 Sliders">
+            <Param name="Band 3 Gain" shortName="Band 3 Gain" id="13" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 3 Frq" shortName="Band 3 Frq" id="14" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 3 Q" shortName="Band 3 Q" id="15" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 3 Type" shortName="Band 3 Type" id="12" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+            <Param name="Band 4 Gain" shortName="Band 4 Gain" id="18" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 4 Frq" shortName="Band 4 Frq" id="19" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 4 Q" shortName="Band 4 Q" id="20" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 4 Type" shortName="Band 4 Type" id="17" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+        </Group>
+        <Group name="Page 1 Encoder Buttons">
+            <Param name="Band 3 On/Off" shortName="Band 3 On/Off" id="11" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param name="Band 4 On/Off" shortName="Band 4 On/Off" id="16" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 1 Pot Buttons">
+            <Param name="Band 5 Gain" shortName="Band 5 Gain" id="23" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 5 Frq" shortName="Band 5 Frq" id="24" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 5 Q" shortName="Band 5 Q" id="25" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 5 Type" shortName="Band 5 Type" id="22" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+            <Param name="Band 6 Gain" shortName="Band 6 Gain" id="28" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 6 Frq" shortName="Band 6 Frq" id="29" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 6 Q" shortName="Band 6 Q" id="30" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Band 6 Type" shortName="Band 6 Type" id="27" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+        </Group>
+        <Group name="Page 1 Slider Buttons">
+            <Param name="Band 5 On/Off" shortName="Band 5 On/Off" id="21" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param name="Band 6 On/Off" shortName="Band 6 On/Off" id="26" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>

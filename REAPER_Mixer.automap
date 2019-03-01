@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="466828232" PlugID3="-926332766" PlugID2="1226593834" PlugID1="2107493748" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1129091659" DeviceID1="-463121537" />
+    <Type Type="3" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="MAST Vol" shortName="MAST Vol" id="16" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Drum Vol" shortName="Drum Vol" id="17" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="18" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="19" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="20" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="21" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="22" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Kick Vol" shortName="Kick Vol" id="23" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="MAST Mute" shortName="MAST Mute" id="8" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Drum Mute" shortName="Drum Mute" id="9" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="10" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="11" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="12" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="13" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="14" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Mute" shortName="Kick Mute" id="15" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param name="Bank +/-" shortName="Bank +/-" id="40" intStep="0" intMax="1" intMin="-1" high="1" low="-1" step="0.015748" />
+        </Group>
+        <Group name="Page 1 Sliders">
+            <Param name="MAST Pan" shortName="MAST Pan" id="0" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Drum Pan" shortName="Drum Pan" id="1" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="2" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="3" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="4" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="5" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="6" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Pan" shortName="Kick Pan" id="7" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+        </Group>
+        <Group name="Page 1 Encoder Buttons">
+            <Param name="MAST Solo" shortName="MAST Solo" id="32" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Drum Solo" shortName="Drum Solo" id="33" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="34" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="35" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="36" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="37" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="38" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Solo" shortName="Kick Solo" id="39" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param name="Bank +/-" shortName="Bank +/-" id="40" intStep="0" intMax="1" intMin="-1" high="1" low="-1" step="0.015748" />
+        </Group>
+        <Group name="Page 1 Pot Buttons">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Slider Buttons">
+            <Param name="MAST Arm" shortName="MAST Arm" id="24" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Drum Arm" shortName="Drum Arm" id="25" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="26" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="27" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="28" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="29" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="30" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+            <Param name="Kick Arm" shortName="Kick Arm" id="31" intStep="0" intMax="0" intMin="0" high="0" low="0" step="0.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 2 Encoders">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 2 Pots">
+            <Param name="Bank Left" shortName="Bank Left" id="41" intStep="0" intMax="1" intMin="0" high="1" low="0" step="0.000000" />
+            <Param name="Bank Right" shortName="Bank Right" id="42" intStep="0" intMax="1" intMin="0" high="1" low="0" step="0.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 2 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>

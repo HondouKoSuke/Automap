@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="2036605028" PlugID3="1919903352" PlugID2="1500468292" PlugID1="1448297806" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1129091659" DeviceID1="-463121537" />
+    <Type Type="1" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="Comp Threshold" shortName="Comp Threshold" id="16" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Comp Ratio" shortName="Comp Ratio" id="20" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Comp Attack" shortName="Comp Attack" id="17" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Warmth Amount" shortName="Warmth Amount" id="42" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Trim" shortName="Trim" id="43" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Comp Hold" shortName="Comp Hold" id="18" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Comp Make-Up" shortName="Comp Make-Up" id="21" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="Comp Release" shortName="Comp Release" id="19" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="Compressor In" shortName="Compressor In" id="15" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param name="Warmth In" shortName="Warmth In" id="41" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>

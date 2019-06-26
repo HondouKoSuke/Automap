@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="1902452836" PlugID3="1919903352" PlugID2="1366250565" PlugID1="1448297806" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1129091659" DeviceID1="-463121537" />
+    <Type Type="1" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="Low Filter Slope" shortName="Low Filter Slope" id="2" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+            <Param name="Low Filter Frequency" shortName="Low Filter Frequency" id="3" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="High Filter Slope" shortName="High Filter Slope" id="5" intStep="5" intMax="100" intMin="0" high="100" low="0" step="5.000000" />
+            <Param name="High Filter Frequency" shortName="High Filter Frequency" id="6" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="LF Frequency" shortName="LF Frequency" id="11" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="LF Q" shortName="LF Q" id="12" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="LF Gain" shortName="LF Gain" id="14" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="Low Filter In" shortName="Low Filter In" id="1" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param name="High Filter In" shortName="High Filter In" id="4" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param name="LF In" shortName="LF In" id="9" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param name="LF Shelf" shortName="LF Shelf" id="10" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 1 Sliders">
+            <Param name="HF Frequency" shortName="HF Frequency" id="29" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="HF Q" shortName="HF Q" id="30" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="HF Gain" shortName="HF Gain" id="32" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param />
+            <Param name="MF Frequency" shortName="MF Frequency" id="20" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="MF Q" shortName="MF Q" id="21" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="MF Gain" shortName="MF Gain" id="22" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param />
+        </Group>
+        <Group name="Page 1 Encoder Buttons">
+            <Param name="HF In" shortName="HF In" id="27" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param name="HF Shelf" shortName="HF Shelf" id="28" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param name="MF In" shortName="MF In" id="19" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 1 Pot Buttons">
+            <Param name="LMF Frequency" shortName="LMF Frequency" id="16" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="LMF Q" shortName="LMF Q" id="17" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="LMF Gain" shortName="LMF Gain" id="18" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param />
+            <Param name="HMF Frequency" shortName="HMF Frequency" id="24" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="HMF Q" shortName="HMF Q" id="25" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param name="HMF Gain" shortName="HMF Gain" id="26" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000" />
+            <Param />
+        </Group>
+        <Group name="Page 1 Slider Buttons">
+            <Param name="LMF In" shortName="LMF In" id="15" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+            <Param name="HMF In" shortName="HMF In" id="23" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000" />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>
